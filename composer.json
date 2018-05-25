@@ -1,0 +1,8 @@
+{
+	"name": "qubeshub/plg_system_menurouter",
+	"description": "Prepend menu parent items to generated component URLs and route menu items appropriately.",
+	"type": "hubzero-plugin",
+  	"extra": {
+	    "install-directory": "/plugins/system/menurouter"
+	}
+}
